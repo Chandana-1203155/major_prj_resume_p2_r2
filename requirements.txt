@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+pydantic
+langgraph
+langchain-google-genai
+PyPDF2
+python-docx
+pandas
+numpy
+matplotlib
+langchain-google-genai
+python-dotenv
+
+# Optional: OCR fallback for scanned/image-only PDFs
+# (also needs the tesseract-ocr and poppler-utils system packages)
+# pytesseract
+# pdf2image
